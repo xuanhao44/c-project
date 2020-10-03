@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(猜数字(工程).vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+D:\Project\猜数字(工程)\main.c(9,15): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Project\猜数字(工程)\main.c(14,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\Project\猜数字(工程)\main.c(14,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\Project\猜数字(工程)\main.c(14,11): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\Project\猜数字(工程)\main.c(14,11): message : 此参数用作缓冲区大小

@@ -1,0 +1,2 @@
+D:\Project\猜数字(工程)\Debug\猜数字(工程).exe
+D:\Project\猜数字(工程)\Debug\猜数字(工程).pdb
