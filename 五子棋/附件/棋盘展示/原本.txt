@@ -1,0 +1,15 @@
+void qp(){
+printf("00 ");
+for(int i=1;i<=15;i++) 
+printf(" %02d ",i);
+printf("\n");
+for(int i=1;i<=15;i++){
+	printf("%02d ",i);
+	for(int j=1;j<=15;j++) {
+	if(map[j][i]==1) printf("(¡ñ)");
+	else if(map[j][i]==2) printf("(¡ð)"); 
+	else printf("(  )");
+	if(j==15) printf("\n");
+	}
+}
+}
